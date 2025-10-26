@@ -1,8 +1,10 @@
 # Welcome to the Lark Project
 
-Hello and welcome! This repository serves as the central hub and landing page for the entire Lark project. Lark is a comprehensive system designed for controlling the Fujitsu FTP-68EMCL112-R thermal printer, encompassing everything from custom hardware to a user-friendly graphical interface.
+Hello and welcome! This repository serves as the central hub and landing page for the entire Lark project. 
 
 ![alt text](https://github.com/hamslices/The-Lark-Project/blob/main/img/lark_advert_2.png?raw=true)
+
+Lark is a comprehensive system designed for controlling the Fujitsu FTP-68EMCL112-R thermal printer, encompassing everything from custom hardware to a user-friendly graphical interface.
 
 This central repository is also used to store project-wide assets, including invoices, photos, and other documentation related to the development of the Lark project.
 

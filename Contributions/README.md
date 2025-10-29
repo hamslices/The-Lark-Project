@@ -20,3 +20,5 @@ Contributions toward acquiring these initial components will directly fund the c
 *   **The final, polished open-source release that others can build with confidence.**
 
 Thank you for being a part of this journey. Every bit of support helps push this project closer to the finish line.
+
+I'm still awaiting a github sponsorship profile approval, please bear with me.

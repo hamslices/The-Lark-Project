@@ -21,4 +21,4 @@ Contributions toward acquiring these initial components will directly fund the c
 
 Thank you for being a part of this journey. Every bit of support helps push this project closer to the finish line.
 
-I'm still awaiting a github sponsorship profile approval, please bear with me.
+**I'm still awaiting a github sponsorship profile approval, please bear with me.**
